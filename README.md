@@ -1,2 +1,2 @@
-# Proyecto-Metodolog-a
+# Proyecto-Metodologia
 Calculadora super PRO :)
